@@ -47,7 +47,7 @@ measurements grows as the robot continues to traverse the scene.
 
 In this part of the assignment, the sensor measurements were used to create a map of the scene. To accomplish this task, the x and y coordinates of each sensor measurement were calculated in the sensor frame. Then, these points were transformed back into the inertial frame using a transformation matrix. The structure of this transformation matrix is shown below:
 
-![](TransformationMatrix.png)
+![](TransMat.png)
 
 *Figure 3: Transformation matrix used to transform points from the sensor frame to the inertial frame*
 
