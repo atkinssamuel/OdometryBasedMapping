@@ -1,3 +1,5 @@
+# Wheel Odometry-Based Mapping
+
 This project is the solution to A1 of ROB521: Mobile Robotics and Perception taught at the University of Toronto. This assignment requires students to implement a wheel odometry algorithm to map a scene based on a series of measurements. See the file ass1.m for the implemented algorithms and see the file gazebo.mp4 to visualize the robot's scene.
 
 # Part 1: Wheel Odometry Algorithm
